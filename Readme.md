@@ -1,4 +1,4 @@
-````markdown
+markdown
 # 🎬 IMDB Review Sentiment Analyzer
 
 [![Python](https://img.shields.io/badge/python-3.8%2B-blue)](https://www.python.org/)
@@ -47,7 +47,6 @@ imdb-sentiment-analyzer/
 ├── app.py                  # Streamlit application script
 ├── requirements.txt        # Python package dependencies
 └── README.md               # Project documentation (this file)
-````
 
 ---
 
